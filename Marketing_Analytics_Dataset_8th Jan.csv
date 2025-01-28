@@ -1,0 +1,51 @@
+Customer ID,Region,Age Group,Income Group,Purchase Frequency (Monthly),Avg. Spend (₹),Campaign Type,Campaign Cost (₹),Conversions (%),Total Revenue (₹),Population Estimate (Region)
+101,North,18-24,Low Income,3,1500,Social Media Ads,25000,12,18000000.0,100000
+102,South,25-34,Middle Income,5,2000,Referral Program,40000,18,43200000.0,120000
+103,West,35-44,High Income,7,3000,Influencer Campaign,70000,22,59400000.0,90000
+104,East,45-54,Middle Income,4,2500,TV Advertisement,60000,10,20000000.0,80000
+105,North,55+,Low Income,2,1000,Email Campaign,20000,8,8000000.0,100000
+106,South,18-24,Low Income,3,1500,Social Media Ads,25000,12,21600000.0,120000
+107,West,25-34,Middle Income,5,2000,Referral Program,40000,18,32400000.0,90000
+108,East,35-44,High Income,7,3000,Influencer Campaign,70000,22,52800000.0,80000
+109,North,45-54,Middle Income,4,2500,TV Advertisement,60000,10,25000000.0,100000
+110,South,55+,Low Income,2,1000,Email Campaign,20000,8,9600000.0,120000
+111,West,18-24,Low Income,3,1500,Social Media Ads,25000,12,16200000.0,90000
+112,East,25-34,Middle Income,5,2000,Referral Program,40000,18,28800000.0,80000
+113,North,35-44,High Income,7,3000,Influencer Campaign,70000,22,66000000.0,100000
+114,South,45-54,Middle Income,4,2500,TV Advertisement,60000,10,30000000.0,120000
+115,West,55+,Low Income,2,1000,Email Campaign,20000,8,7200000.0,90000
+116,East,18-24,Low Income,3,1500,Social Media Ads,25000,12,14400000.0,80000
+117,North,25-34,Middle Income,5,2000,Referral Program,40000,18,36000000.0,100000
+118,South,35-44,High Income,7,3000,Influencer Campaign,70000,22,79200000.0,120000
+119,West,45-54,Middle Income,4,2500,TV Advertisement,60000,10,22500000.0,90000
+120,East,55+,Low Income,2,1000,Email Campaign,20000,8,6400000.0,80000
+121,North,18-24,Low Income,3,1500,Social Media Ads,25000,12,18000000.0,100000
+122,South,25-34,Middle Income,5,2000,Referral Program,40000,18,43200000.0,120000
+123,West,35-44,High Income,7,3000,Influencer Campaign,70000,22,59400000.0,90000
+124,East,45-54,Middle Income,4,2500,TV Advertisement,60000,10,20000000.0,80000
+125,North,55+,Low Income,2,1000,Email Campaign,20000,8,8000000.0,100000
+126,South,18-24,Low Income,3,1500,Social Media Ads,25000,12,21600000.0,120000
+127,West,25-34,Middle Income,5,2000,Referral Program,40000,18,32400000.0,90000
+128,East,35-44,High Income,7,3000,Influencer Campaign,70000,22,52800000.0,80000
+129,North,45-54,Middle Income,4,2500,TV Advertisement,60000,10,25000000.0,100000
+130,South,55+,Low Income,2,1000,Email Campaign,20000,8,9600000.0,120000
+131,West,18-24,Low Income,3,1500,Social Media Ads,25000,12,16200000.0,90000
+132,East,25-34,Middle Income,5,2000,Referral Program,40000,18,28800000.0,80000
+133,North,35-44,High Income,7,3000,Influencer Campaign,70000,22,66000000.0,100000
+134,South,45-54,Middle Income,4,2500,TV Advertisement,60000,10,30000000.0,120000
+135,West,55+,Low Income,2,1000,Email Campaign,20000,8,7200000.0,90000
+136,East,18-24,Low Income,3,1500,Social Media Ads,25000,12,14400000.0,80000
+137,North,25-34,Middle Income,5,2000,Referral Program,40000,18,36000000.0,100000
+138,South,35-44,High Income,7,3000,Influencer Campaign,70000,22,79200000.0,120000
+139,West,45-54,Middle Income,4,2500,TV Advertisement,60000,10,22500000.0,90000
+140,East,55+,Low Income,2,1000,Email Campaign,20000,8,6400000.0,80000
+141,North,18-24,Low Income,3,1500,Social Media Ads,25000,12,18000000.0,100000
+142,South,25-34,Middle Income,5,2000,Referral Program,40000,18,43200000.0,120000
+143,West,35-44,High Income,7,3000,Influencer Campaign,70000,22,59400000.0,90000
+144,East,45-54,Middle Income,4,2500,TV Advertisement,60000,10,20000000.0,80000
+145,North,55+,Low Income,2,1000,Email Campaign,20000,8,8000000.0,100000
+146,South,18-24,Low Income,3,1500,Social Media Ads,25000,12,21600000.0,120000
+147,West,25-34,Middle Income,5,2000,Referral Program,40000,18,32400000.0,90000
+148,East,35-44,High Income,7,3000,Influencer Campaign,70000,22,52800000.0,80000
+149,North,45-54,Middle Income,4,2500,TV Advertisement,60000,10,25000000.0,100000
+150,South,55+,Low Income,2,1000,Email Campaign,20000,8,9600000.0,120000
